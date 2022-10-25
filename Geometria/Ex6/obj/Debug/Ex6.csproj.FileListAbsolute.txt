@@ -1,0 +1,8 @@
+C:\Users\joao.barbosa03\Downloads\Exercicio_06\Ex6\bin\Debug\Ex6.exe.config
+C:\Users\joao.barbosa03\Downloads\Exercicio_06\Ex6\bin\Debug\Ex6.exe
+C:\Users\joao.barbosa03\Downloads\Exercicio_06\Ex6\bin\Debug\Ex6.pdb
+C:\Users\joao.barbosa03\Downloads\Exercicio_06\Ex6\obj\Debug\Ex6.csproj.AssemblyReference.cache
+C:\Users\joao.barbosa03\Downloads\Exercicio_06\Ex6\obj\Debug\Ex6.csproj.SuggestedBindingRedirects.cache
+C:\Users\joao.barbosa03\Downloads\Exercicio_06\Ex6\obj\Debug\Ex6.csproj.CoreCompileInputs.cache
+C:\Users\joao.barbosa03\Downloads\Exercicio_06\Ex6\obj\Debug\Ex6.exe
+C:\Users\joao.barbosa03\Downloads\Exercicio_06\Ex6\obj\Debug\Ex6.pdb
